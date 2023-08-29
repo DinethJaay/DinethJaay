@@ -1,5 +1,5 @@
 # 👋 Hi There
-- 👋 Hi, I’m Dineth Jayanga<br>- 👀 I’m interested in C#,Java,HTML etc.<br>- 🌱 ’m currently learning BEng Software Engineering at Coventry University (UK)<br>- 📫 How to reach me dinethjayanga37@gmail.com
+- 👋 Hi, I’m Dineth Jayanga<br>- 👀 I’m interested in C#,Java,HTML etc.<br>- 🌱 ’m currently learning BSc Software Engineering at Coventry University (UK)<br>- 📫 How to reach me dinethjayanga37@gmail.com
 
 
 ## 🌐 Socials:
