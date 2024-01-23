@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinethjaay&show_icons=true&locale=en" alt="dinethjaay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinethjaay&" alt="dinethjaay" /></p>
+<a href="https://app.daily.dev/dinethjay"><img src="https://api.daily.dev/devcards/7d856e9ca73245c487b8cc7940bccf03.png?r=qqe" width="400" alt="Dineth Jayanga's Dev Card"/></a>
