@@ -11,7 +11,7 @@
 
 - -👀 I’m interested in **C#,Java,HTML etc.**
 
-- -📫 How to reach me **dinethjayanga37@gmail.com**
+- -📫 How to reach me **dinethjayanga37@gmail.com** Or **dinthjay@rapidm3.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
