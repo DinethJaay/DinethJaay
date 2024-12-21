@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dineth Jayanga</h1>
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/26tn33aiTi1jG3QRa/giphy.gif" alt="Programming in Action" />
+  <img height="350" src="[https://media.giphy.com/media/26tn33aiTi1jG3QRa/giphy.gif](https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif")" alt="Programming in Action" />
 </div>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
