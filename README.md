@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dineth Jayanga</h1>
 <div align="center">
-  <img height="350"  src="https://camo.githubusercontent.com/91f761cf0b31ba15ac04224f132e49a063ee6163ded1a0539a263d8afca8e744/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966"  />
+  <img height="350" src="https://camo.githubusercontent.com/91f761cf0b31ba15ac04224f132e49a063ee6163ded1a0539a263d8afca8e744/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966" />
+</div>
+
+<div align="center">
+  <img height="350" src="https://media.giphy.com/media/Vja8FE6xlSQkAnC9z0/giphy.gif" alt="coding animation" />
 </div>
 
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
